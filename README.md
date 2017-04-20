@@ -1,19 +1,3 @@
-# Helloworld  - master
-From master  Master
+master
 
-Editing the file to test.
-
-New from master
-
-
----------------------
-
-Branch _new
-
-
-
-
-
-
-
-
+New_branch
